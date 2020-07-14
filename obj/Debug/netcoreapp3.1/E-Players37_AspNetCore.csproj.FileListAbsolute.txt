@@ -1,0 +1,7 @@
+C:\Users\Dark_Cheedar\Desktop\E-Players37_AspNetCore\obj\Debug\netcoreapp3.1\E-Players37_AspNetCore.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\E-Players37_AspNetCore\obj\Debug\netcoreapp3.1\E-Players37_AspNetCore.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\E-Players37_AspNetCore\obj\Debug\netcoreapp3.1\E-Players37_AspNetCore.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\E-Players37_AspNetCore\obj\Debug\netcoreapp3.1\E-Players37_AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\E-Players37_AspNetCore\obj\Debug\netcoreapp3.1\E-Players37_AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dark_Cheedar\Desktop\E-Players37_AspNetCore\obj\Debug\netcoreapp3.1\E-Players37_AspNetCore.RazorAssemblyInfo.cache
+C:\Users\Dark_Cheedar\Desktop\E-Players37_AspNetCore\obj\Debug\netcoreapp3.1\E-Players37_AspNetCore.RazorAssemblyInfo.cs
