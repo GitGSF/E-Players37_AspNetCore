@@ -12,6 +12,10 @@ namespace E_Players37_AspNetCore.Models
         public string Imagem { get; set; }
         private const string PATH = "Database/equipe.csv";
 
+        public Equipe(){
+            CreateFolderAndFile(PATH);
+        }
+
         //Criar linha de equipe
         public void Create(Equipe e)
         {
