@@ -8,7 +8,7 @@ namespace E_Players37_AspNetCore.Interfaces
         // Create
         void Create(Noticias n);
         // Read
-        List<Equipe> ReadAll();
+        List<Noticias> ReadAll();
         // Update
         void Update(Noticias n);
         // Delete

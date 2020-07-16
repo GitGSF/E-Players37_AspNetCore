@@ -42,13 +42,12 @@ namespace E_Players37_AspNetCore.Controllers
                 }
                 equipeModel.Imagem   = file.FileName;
             }
+
             else
             {
                 equipeModel.Imagem   = "padrao.png";
             }
             // Upload Final
-
-            equipeModel.Imagem   = form["Imagem"];
 
             equipeModel.Create(equipeModel);            
             ViewBag.Equipes = equipeModel.ReadAll();
@@ -65,3 +64,4 @@ namespace E_Players37_AspNetCore.Controllers
         }
     }
 }
+

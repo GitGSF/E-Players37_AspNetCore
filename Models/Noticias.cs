@@ -13,6 +13,9 @@ namespace E_Players37_AspNetCore.Models
         public string  Imagem { get; set; }
         private const string PATH = "Database/Noticias.csv";
 
+        public Noticias(){
+            CreateFolderAndFile(PATH);
+        }
         //Criar Noticias
         public void Create(Noticias n)
         {
@@ -61,7 +64,7 @@ namespace E_Players37_AspNetCore.Models
             RewriteCSV(PATH, linhas);
         }
 
-        List<Equipe> INoticias.ReadAll()
+        List<Noticias> INoticias.ReadAll()
         {
             throw new NotImplementedException();
         }

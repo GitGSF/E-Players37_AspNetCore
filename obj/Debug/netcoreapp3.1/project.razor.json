@@ -20536,6 +20536,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Dark_Cheedar\\Desktop\\E-Players37_AspNetCore\\Views\\Noticias\\index.cshtml",
+      "TargetPath": "Views\\Noticias\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dark_Cheedar\\Desktop\\E-Players37_AspNetCore\\Views\\Equipe\\index.cshtml",
       "TargetPath": "Views\\Equipe\\index.cshtml",
       "FileKind": "mvc"
@@ -20548,11 +20553,6 @@
     {
       "FilePath": "c:\\Users\\Dark_Cheedar\\Desktop\\E-Players37_AspNetCore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Dark_Cheedar\\Desktop\\E-Players37_AspNetCore\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
